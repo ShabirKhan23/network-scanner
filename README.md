@@ -1,4 +1,4 @@
-<img src='banner.png' width=400/>
+<img src='banner.png' width=700/>
 
 # network-scanner
 
